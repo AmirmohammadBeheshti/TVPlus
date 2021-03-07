@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b68486f-1b86-4675-99dd-a1f53230866c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1n3uj3LBvWuAycRHhwSgmyttV6Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b68486f-1b86-4675-99dd-a1f53230866c" name="Default Changelist" comment="" />
+      <created>1610631226799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610631226799</updated>
+      <workItem from="1610631228316" duration="1006000" />
+      <workItem from="1610779864602" duration="6223000" />
+      <workItem from="1610791401184" duration="5306000" />
+      <workItem from="1610798240716" duration="213000" />
+      <workItem from="1610799009002" duration="5699000" />
+      <workItem from="1610812679561" duration="688000" />
+      <workItem from="1610963515388" duration="36000" />
+      <workItem from="1613373713473" duration="7857000" />
+      <workItem from="1613387168022" duration="657000" />
+      <workItem from="1614605046261" duration="6904000" />
+      <workItem from="1614616768142" duration="1412000" />
+      <workItem from="1614668126603" duration="7877000" />
+      <workItem from="1614678204937" duration="10033000" />
+      <workItem from="1614692642638" duration="2912000" />
+      <workItem from="1614762760030" duration="9877000" />
+      <workItem from="1614781749592" duration="2482000" />
+      <workItem from="1614839004837" duration="16582000" />
+      <workItem from="1615013719893" duration="15704000" />
+      <workItem from="1615049184832" duration="294000" />
+      <workItem from="1615049648381" duration="1403000" />
+      <workItem from="1615058874231" duration="1062000" />
+      <workItem from="1615061146521" duration="263000" />
+      <workItem from="1615099900635" duration="7600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="675" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615107844907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1614617233097" />
+    <state x="675" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1615107844906" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1615107334587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615107334587" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1615109269804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1615109269804" />
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup" timestamp="1615015373108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615015373108" />
+    <state x="774" y="206" key="svn.repositoryBrowser" timestamp="1615108014434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="206" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1615108014434" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/header.jsx</url>
+          <line>35</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/index.jsx</url>
+          <line>283</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
